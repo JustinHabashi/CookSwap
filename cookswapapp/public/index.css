@@ -4,7 +4,7 @@
 body {
   font-size: 14px;
 }
-.v1_2 {
+v1_2 {
   width: 360px;
   height: 640px;
   background: rgba(109,211,255,1);
@@ -14,7 +14,7 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.v2_2 {
+v2_2 {
   width: 360px;
   height: 461px;
   background: rgba(255,255,255,1);
@@ -23,7 +23,7 @@ body {
   top: 179px;
   left: 0px;
 }
-.v1_3 {
+v1_3 {
   width: 360px;
   height: 413px;
   background: rgba(250,173,85,1);
@@ -32,7 +32,7 @@ body {
   top: 250px;
   left: 0px;
 }
-.v2_26 {
+v2_26 {
   width: 254px;
   height: 58px;
   background: rgba(255,255,255,1);
@@ -47,7 +47,7 @@ body {
   box-shadow: 0px 4px 3px rgba(0, 0, 0, 0.11999999731779099);
   overflow: hidden;
 }
-.v3_4 {
+v3_4 {
   width: 254px;
   height: 58px;
   background: rgba(250,173,85,1);
@@ -76,7 +76,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v3_5 {
+v3_5 {
   width: 87px;
   color: rgba(255,255,255,0.8500000238418579);
   position: absolute;
@@ -89,7 +89,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v3_3 {
+v3_3 {
   width: 256px;
   height: 256px;
   background: url("cookswapapp/public/images/v3_3.png");
@@ -102,7 +102,7 @@ body {
   left: 52px;
   overflow: hidden;
 }
-.v4_22 {
+v4_22 {
   width: 165px;
   color: rgba(255,255,255,1);
   position: absolute;
@@ -114,7 +114,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v4_0 {
+v4_0 {
   width: 360px;
   height: 640px;
   background: rgba(109,211,255,1);
@@ -124,7 +124,7 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.v4_7 {
+v4_7 {
   width: 50px;
   height: 50px;
   background: url("cookswapapp/public/images/v4_7.png");
@@ -137,7 +137,7 @@ body {
   left: 3px;
   overflow: hidden;
 }
-.v4_8 {
+v4_8 {
   width: 32px;
   height: 32px;
   background: rgba(255,255,255,1);
@@ -147,7 +147,7 @@ body {
   left: 316px;
   overflow: hidden;
 }
-.v4_9 {
+v4_9 {
   width: 32px;
   height: 32px;
   background: url("cookswapapp/public/images/v4_9.png");
@@ -156,7 +156,7 @@ body {
   top: 0px;
   left: 0px;
 }
-.v4_10 {
+v4_10 {
   width: 24px;
   height: 16px;
   background: rgba(255,255,255,1);
@@ -165,7 +165,7 @@ body {
   top: 8px;
   left: 4px;
 }
-.v4_20 {
+v4_20 {
   width: 360px;
   height: 498px;
   background: url("cookswapapp/public/images/v4_20.png");
@@ -178,7 +178,7 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.v4_21 {
+v4_21 {
   width: 165px;
   color: rgba(255,255,255,1);
   position: absolute;
@@ -190,7 +190,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v4_30 {
+v4_30 {
   width: 360px;
   height: 461px;
   background: rgba(255,255,255,1);
@@ -199,7 +199,7 @@ body {
   top: 416px;
   left: 0px;
 }
-.v4_31 {
+v4_31 {
   width: 360px;
   height: 413px;
   background: rgba(250,173,85,1);
@@ -208,7 +208,7 @@ body {
   top: 487px;
   left: 0px;
 }
-.v4_33 {
+v4_33 {
   width: 360px;
   height: 640px;
   background: rgba(109,211,255,1);
@@ -218,7 +218,7 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.v4_43 {
+v4_43 {
   width: 360px;
   height: 895px;
   background: url("cookswapapp/public/images/v4_43.png");
@@ -231,7 +231,7 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.v4_34 {
+v4_34 {
   width: 50px;
   height: 50px;
   background: url("cookswapapp/public/images/v4_34.png");
@@ -244,7 +244,7 @@ body {
   left: 3px;
   overflow: hidden;
 }
-.v4_38 {
+v4_38 {
   width: 360px;
   height: 498px;
   background: url("cookswapapp/public/images/v4_38.png");
@@ -257,7 +257,7 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.v4_39 {
+v4_39 {
   width: 165px;
   color: rgba(255,255,255,1);
   position: absolute;
@@ -269,7 +269,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v4_40 {
+v4_40 {
   width: 360px;
   height: 461px;
   background: rgba(255,255,255,1);
@@ -278,7 +278,7 @@ body {
   top: 411px;
   left: 0px;
 }
-.v4_41 {
+v4_41 {
   width: 360px;
   height: 413px;
   background: rgba(250,173,85,1);
@@ -287,7 +287,7 @@ body {
   top: 482px;
   left: 0px;
 }
-.v4_44 {
+v4_44 {
   width: 260px;
   height: 640px;
   background: rgba(255,255,255,1);
@@ -297,7 +297,7 @@ body {
   left: 100px;
   overflow: hidden;
 }
-.v4_45 {
+v4_45 {
   width: 262px;
   height: 49px;
   background: rgba(109,211,255,0.25);
@@ -307,7 +307,7 @@ body {
   left: 98px;
   overflow: hidden;
 }
-.v4_46 {
+v4_46 {
   width: 262px;
   height: 49px;
   background: rgba(109,211,255,0.25);
@@ -317,7 +317,7 @@ body {
   left: 99px;
   overflow: hidden;
 }
-.v4_47 {
+v4_47 {
   width: 262px;
   height: 49px;
   background: rgba(109,211,255,0.25);
@@ -327,7 +327,7 @@ body {
   left: 99px;
   overflow: hidden;
 }
-.v4_48 {
+v4_48 {
   width: 50px;
   color: rgba(109,211,255,1);
   position: absolute;
@@ -339,7 +339,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v4_49 {
+v4_49 {
   width: 161px;
   color: rgba(250,173,85,1);
   position: absolute;
@@ -351,7 +351,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v4_50 {
+v4_50 {
   width: 186px;
   color: rgba(250,173,85,1);
   position: absolute;
@@ -363,7 +363,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v4_69 {
+v4_69 {
   width: 262px;
   height: 49px;
   background: rgba(109,211,255,0.25);
@@ -373,7 +373,7 @@ body {
   left: 100px;
   overflow: hidden;
 }
-.v4_70 {
+v4_70 {
   width: 186px;
   color: rgba(250,173,85,1);
   position: absolute;
@@ -385,7 +385,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v4_51 {
+v4_51 {
   width: 186px;
   color: rgba(250,173,85,1);
   position: absolute;
@@ -397,7 +397,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v7_8 {
+v7_8 {
   width: 23px;
   height: 23px;
   background: rgba(109,211,255,1);
@@ -406,7 +406,7 @@ body {
   top: 8px;
   left: 327px;
 }
-.v4_52 {
+v4_52 {
   width: 360px;
   height: 720px;
   background: rgba(109,211,255,1);
@@ -416,7 +416,7 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.v4_53 {
+v4_53 {
   width: 50px;
   height: 50px;
   background: url("cookswapapp/public/images/v4_53.png");
@@ -429,7 +429,7 @@ body {
   left: 3px;
   overflow: hidden;
 }
-.v4_54 {
+v4_54 {
   width: 32px;
   height: 32px;
   background: rgba(255,255,255,1);
@@ -439,7 +439,7 @@ body {
   left: 316px;
   overflow: hidden;
 }
-.v4_55 {
+v4_55 {
   width: 32px;
   height: 32px;
   background: url("cookswapapp/public/images/v4_55.png");
@@ -448,7 +448,7 @@ body {
   top: 0px;
   left: 0px;
 }
-.v4_56 {
+v4_56 {
   width: 24px;
   height: 16px;
   background: rgba(255,255,255,1);
@@ -457,7 +457,7 @@ body {
   top: 8px;
   left: 4px;
 }
-.v4_58 {
+v4_58 {
   width: 165px;
   color: rgba(255,255,255,1);
   position: absolute;
