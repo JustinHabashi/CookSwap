@@ -1,13 +1,17 @@
-import logo from './logo.svg';
+import React from 'react';
+//import logo from './logo.svg';
+import cookswap from './cookswap.jpeg'
 import './App.css';
 
 function App() {
   return (
+    <>
     <div className="App">
+  
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={cookswap} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Welcome to CookSwap
         </p>
         <a
           className="App-link"
@@ -15,10 +19,37 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          My Profile
         </a>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Nearby Swaps
+        </a>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Start a Swap
+        </a>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Meal Ideas
+        </a>
+                <style>{'body { background-color: red; }'}</style>
       </header>
     </div>
+    <p> This is a sentence. </p>
+    </>
   );
 }
 
