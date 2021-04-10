@@ -1,9 +1,9 @@
-import React, { Component } from "react";
+import React from 'react'
 
-class MenuButton extends Component {
-    constructor(props) {
-        super(props);
-
-        this.handleClick = this.handleClick.bind(this);
-    }
+export default function MenuButton() {
+    return (
+        <div>
+            
+        </div>
+    )
 }

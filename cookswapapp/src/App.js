@@ -4,8 +4,8 @@ import './App.css';
 
 function App() {
   return (
-    <>
     <div className="App">
+  
       <header className="App-header">
         <img src={cookswap} className="App-logo" alt="logo" />
         <p>
@@ -46,8 +46,6 @@ function App() {
                 <style>{'body { background-color: red; }'}</style>
       </header>
     </div>
-    <p> This is a sentence. </p>
-    </>
   );
 }
 
