@@ -63,7 +63,7 @@ v3_4 {
   box-shadow: 0px 4px 3px rgba(0, 0, 0, 0.11999999731779099);
   overflow: hidden;
 }
-.v2_28 {
+v2_28 {
   width: 155px;
   color: rgba(250,173,85,1);
   position: absolute;
@@ -469,7 +469,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v4_61 {
+v4_61 {
   width: 360px;
   height: 652px;
   background: rgba(255,255,255,1);
@@ -479,7 +479,7 @@ v4_58 {
   left: 0px;
   overflow: hidden;
 }
-.v4_62 {
+v4_62 {
   width: 109px;
   height: 109px;
   background: rgba(229,229,229,1);
@@ -489,7 +489,7 @@ v4_58 {
   left: 125px;
   border-radius: 50%;
 }
-.v4_65 {
+v4_65 {
   width: 360px;
   height: 130px;
   background: rgba(109,211,255,0.20000000298023224);
@@ -499,7 +499,7 @@ v4_58 {
   left: 0px;
   overflow: hidden;
 }
-.v4_63 {
+v4_63 {
   width: 65px;
   height: 60px;
   background: url("cookswapapp/public/images/v4_63.png");
@@ -512,7 +512,7 @@ v4_58 {
   left: 147px;
   overflow: hidden;
 }
-.v4_64 {
+v4_64 {
   width: 230px;
   height: 25px;
   background: rgba(255,255,255,1);
@@ -527,7 +527,7 @@ v4_58 {
   border-bottom-right-radius: 6px;
   overflow: hidden;
 }
-.v4_66 {
+v4_66 {
   width: 72px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -539,7 +539,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v6_16 {
+v6_16 {
   width: 59px;
   color: rgba(255,255,255,1);
   position: absolute;
@@ -551,7 +551,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v4_67 {
+v4_67 {
   width: 230px;
   height: 25px;
   background: rgba(255,255,255,1);
@@ -566,7 +566,7 @@ v4_58 {
   border-bottom-right-radius: 6px;
   overflow: hidden;
 }
-.v4_68 {
+v4_68 {
   width: 72px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -578,7 +578,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v6_0 {
+v6_0 {
   width: 293px;
   height: 25px;
   background: rgba(255,255,255,1);
@@ -593,7 +593,7 @@ v4_58 {
   border-bottom-right-radius: 6px;
   overflow: hidden;
 }
-.v6_3 {
+v6_3 {
   width: 195px;
   height: 25px;
   background: rgba(255,255,255,1);
@@ -608,7 +608,7 @@ v4_58 {
   border-bottom-right-radius: 6px;
   overflow: hidden;
 }
-.v6_5 {
+v6_5 {
   width: 87px;
   height: 25px;
   background: rgba(255,255,255,1);
@@ -623,7 +623,7 @@ v4_58 {
   border-bottom-right-radius: 6px;
   overflow: hidden;
 }
-.v6_1 {
+v6_1 {
   width: 72px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -635,7 +635,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v6_9 {
+v6_9 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -647,7 +647,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v6_17 {
+v6_17 {
   width: 293px;
   height: 25px;
   background: rgba(255,255,255,1);
@@ -662,7 +662,7 @@ v4_58 {
   border-bottom-right-radius: 6px;
   overflow: hidden;
 }
-.v6_18 {
+v6_18 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -674,7 +674,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v6_20 {
+v6_20 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -686,7 +686,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v6_2 {
+v6_2 {
   width: 114px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -698,7 +698,7 @@ v4_58 {
   opacity: 0.3499999940395355;
   text-align: left;
 }
-.v6_4 {
+v6_4 {
   width: 114px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -710,7 +710,7 @@ v4_58 {
   opacity: 0.3499999940395355;
   text-align: left;
 }
-.v6_6 {
+v6_6 {
   width: 114px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -722,7 +722,7 @@ v4_58 {
   opacity: 0.3499999940395355;
   text-align: left;
 }
-.v6_7 {
+v6_7 {
   width: 87px;
   height: 25px;
   background: rgba(255,255,255,1);
@@ -737,7 +737,7 @@ v4_58 {
   border-bottom-right-radius: 6px;
   overflow: hidden;
 }
-.v6_8 {
+v6_8 {
   width: 78px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -752,7 +752,7 @@ v4_58 {
 .name {
   color: #fff;
 }
-.v6_11 {
+v6_11 {
   width: 15px;
   height: 15px;
   background: rgba(255,255,255,1);
@@ -768,7 +768,7 @@ v4_58 {
 .name {
   color: #fff;
 }
-.v6_19 {
+v6_19 {
   width: 15px;
   height: 15px;
   background: rgba(255,255,255,1);
@@ -783,7 +783,7 @@ v4_58 {
   border-bottom-right-radius: 4px;
   overflow: hidden;
 }
-.v6_21 {
+v6_21 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -795,7 +795,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v6_22 {
+v6_22 {
   width: 15px;
   height: 15px;
   background: rgba(255,255,255,1);
@@ -810,7 +810,7 @@ v4_58 {
   border-bottom-right-radius: 4px;
   overflow: hidden;
 }
-.v6_23 {
+v6_23 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -822,7 +822,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v6_24 {
+v6_24 {
   width: 15px;
   height: 15px;
   background: rgba(255,255,255,1);
@@ -837,7 +837,7 @@ v4_58 {
   border-bottom-right-radius: 4px;
   overflow: hidden;
 }
-.v6_25 {
+v6_25 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -849,7 +849,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v6_26 {
+v6_26 {
   width: 15px;
   height: 15px;
   background: rgba(255,255,255,1);
@@ -864,7 +864,7 @@ v4_58 {
   border-bottom-right-radius: 4px;
   overflow: hidden;
 }
-.v6_27 {
+v6_27 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -876,7 +876,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v6_28 {
+v6_28 {
   width: 15px;
   height: 15px;
   background: rgba(255,255,255,1);
@@ -891,7 +891,7 @@ v4_58 {
   border-bottom-right-radius: 4px;
   overflow: hidden;
 }
-.v6_29 {
+v6_29 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -903,7 +903,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v6_30 {
+v6_30 {
   width: 15px;
   height: 15px;
   background: rgba(255,255,255,1);
@@ -918,7 +918,7 @@ v4_58 {
   border-bottom-right-radius: 4px;
   overflow: hidden;
 }
-.v6_31 {
+v6_31 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -930,7 +930,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v6_32 {
+v6_32 {
   width: 15px;
   height: 15px;
   background: rgba(255,255,255,1);
@@ -945,7 +945,7 @@ v4_58 {
   border-bottom-right-radius: 4px;
   overflow: hidden;
 }
-.v6_33 {
+v6_33 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -957,7 +957,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v6_34 {
+v6_34 {
   width: 15px;
   height: 15px;
   background: rgba(255,255,255,1);
@@ -972,7 +972,7 @@ v4_58 {
   border-bottom-right-radius: 4px;
   overflow: hidden;
 }
-.v6_37 {
+v6_37 {
   width: 94px;
   height: 15px;
   background: rgba(255,255,255,1);
@@ -987,7 +987,7 @@ v4_58 {
   border-bottom-right-radius: 4px;
   overflow: hidden;
 }
-.v6_39 {
+v6_39 {
   width: 78px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -999,7 +999,7 @@ v4_58 {
   opacity: 0.3499999940395355;
   text-align: left;
 }
-.v7_23 {
+v7_23 {
   width: 360px;
   height: 720px;
   background: rgba(109,211,255,1);
@@ -1009,7 +1009,7 @@ v4_58 {
   left: 0px;
   overflow: hidden;
 }
-.v7_24 {
+v7_24 {
   width: 50px;
   height: 50px;
   background: url("cookswapapp/public/images/v7_24.png");
@@ -1022,7 +1022,7 @@ v4_58 {
   left: 3px;
   overflow: hidden;
 }
-.v7_25 {
+v7_25 {
   width: 32px;
   height: 32px;
   background: rgba(255,255,255,1);
@@ -1032,7 +1032,7 @@ v4_58 {
   left: 316px;
   overflow: hidden;
 }
-.v7_26 {
+v7_26 {
   width: 32px;
   height: 32px;
   background: url("cookswapapp/public/images/v7_26.png");
@@ -1041,7 +1041,7 @@ v4_58 {
   top: 0px;
   left: 0px;
 }
-.v7_27 {
+v7_27 {
   width: 24px;
   height: 16px;
   background: rgba(255,255,255,1);
@@ -1050,7 +1050,7 @@ v4_58 {
   top: 8px;
   left: 4px;
 }
-.v7_28 {
+v7_28 {
   width: 165px;
   color: rgba(255,255,255,1);
   position: absolute;
@@ -1062,7 +1062,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v7_29 {
+v7_29 {
   width: 360px;
   height: 652px;
   background: rgba(255,255,255,1);
@@ -1072,7 +1072,7 @@ v4_58 {
   left: 0px;
   overflow: hidden;
 }
-.v7_30 {
+v7_30 {
   width: 109px;
   height: 109px;
   background: rgba(229,229,229,1);
@@ -1082,7 +1082,7 @@ v4_58 {
   left: 125px;
   border-radius: 50%;
 }
-.v7_31 {
+v7_31 {
   width: 360px;
   height: 130px;
   background: rgba(109,211,255,0.20000000298023224);
@@ -1092,7 +1092,7 @@ v4_58 {
   left: 0px;
   overflow: hidden;
 }
-.v7_32 {
+v7_32 {
   width: 65px;
   height: 60px;
   background: url("cookswapapp/public/images/v7_32.png");
@@ -1105,7 +1105,7 @@ v4_58 {
   left: 147px;
   overflow: hidden;
 }
-.v7_33 {
+v7_33 {
   width: 230px;
   height: 25px;
   background: rgba(255,255,255,1);
@@ -1120,7 +1120,7 @@ v4_58 {
   border-bottom-right-radius: 6px;
   overflow: hidden;
 }
-.v7_34 {
+v7_34 {
   width: 72px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -1132,7 +1132,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v7_35 {
+v7_35 {
   width: 59px;
   color: rgba(255,255,255,1);
   position: absolute;
@@ -1144,7 +1144,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v7_36 {
+v7_36 {
   width: 230px;
   height: 25px;
   background: rgba(255,255,255,1);
@@ -1159,7 +1159,7 @@ v4_58 {
   border-bottom-right-radius: 6px;
   overflow: hidden;
 }
-.v7_37 {
+v7_37 {
   width: 72px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -1171,7 +1171,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v7_38 {
+v7_38 {
   width: 293px;
   height: 25px;
   background: rgba(255,255,255,1);
@@ -1186,7 +1186,7 @@ v4_58 {
   border-bottom-right-radius: 6px;
   overflow: hidden;
 }
-.v7_39 {
+v7_39 {
   width: 195px;
   height: 25px;
   background: rgba(255,255,255,1);
@@ -1201,7 +1201,7 @@ v4_58 {
   border-bottom-right-radius: 6px;
   overflow: hidden;
 }
-.v7_40 {
+v7_40 {
   width: 87px;
   height: 25px;
   background: rgba(255,255,255,1);
@@ -1216,7 +1216,7 @@ v4_58 {
   border-bottom-right-radius: 6px;
   overflow: hidden;
 }
-.v7_41 {
+v7_41 {
   width: 72px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -1228,7 +1228,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v7_42 {
+v7_42 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -1240,7 +1240,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v7_43 {
+v7_43 {
   width: 293px;
   height: 25px;
   background: rgba(255,255,255,1);
@@ -1255,7 +1255,7 @@ v4_58 {
   border-bottom-right-radius: 6px;
   overflow: hidden;
 }
-.v7_44 {
+v7_44 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -1267,7 +1267,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v7_45 {
+v7_45 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -1279,7 +1279,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v7_46 {
+v7_46 {
   width: 114px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -1291,7 +1291,7 @@ v4_58 {
   opacity: 0.3499999940395355;
   text-align: left;
 }
-.v7_47 {
+v7_47 {
   width: 114px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -1303,7 +1303,7 @@ v4_58 {
   opacity: 0.3499999940395355;
   text-align: left;
 }
-.v7_48 {
+v7_48 {
   width: 114px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -1315,7 +1315,7 @@ v4_58 {
   opacity: 0.3499999940395355;
   text-align: left;
 }
-.v7_49 {
+v7_49 {
   width: 87px;
   height: 25px;
   background: rgba(255,255,255,1);
@@ -1330,7 +1330,7 @@ v4_58 {
   border-bottom-right-radius: 6px;
   overflow: hidden;
 }
-.v7_50 {
+v7_50 {
   width: 78px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -1345,7 +1345,7 @@ v4_58 {
 .name {
   color: #fff;
 }
-.v7_52 {
+v7_52 {
   width: 15px;
   height: 15px;
   background: rgba(255,255,255,1);
@@ -1361,7 +1361,7 @@ v4_58 {
 .name {
   color: #fff;
 }
-.v7_55 {
+v7_55 {
   width: 15px;
   height: 15px;
   background: rgba(255,255,255,1);
@@ -1376,7 +1376,7 @@ v4_58 {
   border-bottom-right-radius: 4px;
   overflow: hidden;
 }
-.v7_56 {
+v7_56 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -1388,7 +1388,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v7_57 {
+v7_57 {
   width: 15px;
   height: 15px;
   background: rgba(255,255,255,1);
@@ -1403,7 +1403,7 @@ v4_58 {
   border-bottom-right-radius: 4px;
   overflow: hidden;
 }
-.v7_58 {
+v7_58 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -1415,7 +1415,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v7_59 {
+v7_59 {
   width: 15px;
   height: 15px;
   background: rgba(255,255,255,1);
@@ -1430,7 +1430,7 @@ v4_58 {
   border-bottom-right-radius: 4px;
   overflow: hidden;
 }
-.v7_60 {
+v7_60 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -1442,7 +1442,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v7_61 {
+v7_61 {
   width: 15px;
   height: 15px;
   background: rgba(255,255,255,1);
@@ -1457,7 +1457,7 @@ v4_58 {
   border-bottom-right-radius: 4px;
   overflow: hidden;
 }
-.v7_62 {
+v7_62 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -1469,7 +1469,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v7_63 {
+v7_63 {
   width: 15px;
   height: 15px;
   background: rgba(255,255,255,1);
@@ -1484,7 +1484,7 @@ v4_58 {
   border-bottom-right-radius: 4px;
   overflow: hidden;
 }
-.v7_64 {
+v7_64 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -1496,7 +1496,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v7_65 {
+v7_65 {
   width: 15px;
   height: 15px;
   background: rgba(255,255,255,1);
@@ -1511,7 +1511,7 @@ v4_58 {
   border-bottom-right-radius: 4px;
   overflow: hidden;
 }
-.v7_66 {
+v7_66 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -1523,7 +1523,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v7_67 {
+v7_67 {
   width: 15px;
   height: 15px;
   background: rgba(255,255,255,1);
@@ -1538,7 +1538,7 @@ v4_58 {
   border-bottom-right-radius: 4px;
   overflow: hidden;
 }
-.v7_68 {
+v7_68 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -1550,7 +1550,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v7_69 {
+v7_69 {
   width: 15px;
   height: 15px;
   background: rgba(255,255,255,1);
@@ -1565,7 +1565,7 @@ v4_58 {
   border-bottom-right-radius: 4px;
   overflow: hidden;
 }
-.v7_70 {
+v7_70 {
   width: 94px;
   height: 15px;
   background: rgba(255,255,255,1);
@@ -1580,7 +1580,7 @@ v4_58 {
   border-bottom-right-radius: 4px;
   overflow: hidden;
 }
-.v7_71 {
+v7_71 {
   width: 78px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -1592,7 +1592,7 @@ v4_58 {
   opacity: 0.3499999940395355;
   text-align: left;
 }
-.v7_12 {
+v7_12 {
   width: 260px;
   height: 640px;
   background: rgba(255,255,255,1);
@@ -1602,7 +1602,7 @@ v4_58 {
   left: 100px;
   overflow: hidden;
 }
-.v7_13 {
+v7_13 {
   width: 262px;
   height: 49px;
   background: rgba(109,211,255,0.25);
@@ -1612,7 +1612,7 @@ v4_58 {
   left: 98px;
   overflow: hidden;
 }
-.v7_14 {
+v7_14 {
   width: 262px;
   height: 49px;
   background: rgba(109,211,255,0.25);
@@ -1622,7 +1622,7 @@ v4_58 {
   left: 99px;
   overflow: hidden;
 }
-.v7_15 {
+v7_15 {
   width: 262px;
   height: 49px;
   background: rgba(109,211,255,0.25);
@@ -1632,7 +1632,7 @@ v4_58 {
   left: 99px;
   overflow: hidden;
 }
-.v7_16 {
+v7_16 {
   width: 50px;
   color: rgba(109,211,255,1);
   position: absolute;
@@ -1644,7 +1644,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v7_17 {
+v7_17 {
   width: 161px;
   color: rgba(250,173,85,1);
   position: absolute;
@@ -1656,7 +1656,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v7_18 {
+v7_18 {
   width: 186px;
   color: rgba(250,173,85,1);
   position: absolute;
@@ -1668,7 +1668,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v7_19 {
+v7_19 {
   width: 262px;
   height: 49px;
   background: rgba(109,211,255,0.25);
@@ -1678,7 +1678,7 @@ v4_58 {
   left: 100px;
   overflow: hidden;
 }
-.v7_20 {
+v7_20 {
   width: 186px;
   color: rgba(250,173,85,1);
   position: absolute;
@@ -1690,7 +1690,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v7_21 {
+v7_21 {
   width: 186px;
   color: rgba(250,173,85,1);
   position: absolute;
@@ -1702,7 +1702,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v7_22 {
+v7_22 {
   width: 23px;
   height: 23px;
   background: rgba(109,211,255,1);
@@ -1711,7 +1711,7 @@ v4_58 {
   top: 8px;
   left: 327px;
 }
-.v7_73 {
+v7_73 {
   width: 360px;
   height: 640px;
   background: rgba(109,211,255,1);
@@ -1721,7 +1721,7 @@ v4_58 {
   left: 0px;
   overflow: hidden;
 }
-.v7_74 {
+v7_74 {
   width: 50px;
   height: 50px;
   background: url("cookswapapp/public/images/v7_74.png");
@@ -1734,7 +1734,7 @@ v4_58 {
   left: 3px;
   overflow: hidden;
 }
-.v7_75 {
+v7_75 {
   width: 32px;
   height: 32px;
   background: rgba(255,255,255,1);
@@ -1744,7 +1744,7 @@ v4_58 {
   left: 316px;
   overflow: hidden;
 }
-.v7_76 {
+v7_76 {
   width: 32px;
   height: 32px;
   background: url("cookswapapp/public/images/v7_76.png");
@@ -1753,7 +1753,7 @@ v4_58 {
   top: 0px;
   left: 0px;
 }
-.v7_77 {
+v7_77 {
   width: 24px;
   height: 16px;
   background: rgba(255,255,255,1);
@@ -1762,7 +1762,7 @@ v4_58 {
   top: 8px;
   left: 4px;
 }
-.v7_79 {
+v7_79 {
   width: 165px;
   color: rgba(255,255,255,1);
   position: absolute;
@@ -1774,7 +1774,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v7_82 {
+v7_82 {
   width: 360px;
   height: 576px;
   background: url("cookswapapp/public/images/v7_82.png");
@@ -1787,7 +1787,7 @@ v4_58 {
   left: 0px;
   overflow: hidden;
 }
-.v7_84 {
+v7_84 {
   width: 360px;
   height: 640px;
   background: rgba(109,211,255,1);
@@ -1797,7 +1797,7 @@ v4_58 {
   left: 0px;
   overflow: hidden;
 }
-.v7_85 {
+v7_85 {
   width: 50px;
   height: 50px;
   background: url("cookswapapp/public/images/v7_85.png");
@@ -1810,7 +1810,7 @@ v4_58 {
   left: 3px;
   overflow: hidden;
 }
-.v7_86 {
+v7_86 {
   width: 32px;
   height: 32px;
   background: rgba(255,255,255,1);
@@ -1820,7 +1820,7 @@ v4_58 {
   left: 316px;
   overflow: hidden;
 }
-.v7_87 {
+v7_87 {
   width: 32px;
   height: 32px;
   background: url("cookswapapp/public/images/v7_87.png");
@@ -1829,7 +1829,7 @@ v4_58 {
   top: 0px;
   left: 0px;
 }
-.v7_88 {
+v7_88 {
   width: 24px;
   height: 16px;
   background: rgba(255,255,255,1);
@@ -1838,7 +1838,7 @@ v4_58 {
   top: 8px;
   left: 4px;
 }
-.v7_89 {
+v7_89 {
   width: 165px;
   color: rgba(255,255,255,1);
   position: absolute;
@@ -1850,7 +1850,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v7_90 {
+v7_90 {
   width: 360px;
   height: 576px;
   background: url("cookswapapp/public/images/v7_90.png");
@@ -1863,7 +1863,7 @@ v4_58 {
   left: 0px;
   overflow: hidden;
 }
-.v7_91 {
+v7_91 {
   width: 260px;
   height: 640px;
   background: rgba(255,255,255,1);
@@ -1873,7 +1873,7 @@ v4_58 {
   left: 98px;
   overflow: hidden;
 }
-.v7_92 {
+v7_92 {
   width: 262px;
   height: 49px;
   background: rgba(109,211,255,0.25);
@@ -1883,7 +1883,7 @@ v4_58 {
   left: 96px;
   overflow: hidden;
 }
-.v7_93 {
+v7_93 {
   width: 262px;
   height: 49px;
   background: rgba(109,211,255,0.25);
@@ -1893,7 +1893,7 @@ v4_58 {
   left: 97px;
   overflow: hidden;
 }
-.v7_94 {
+v7_94 {
   width: 262px;
   height: 49px;
   background: rgba(109,211,255,0.25);
@@ -1903,7 +1903,7 @@ v4_58 {
   left: 97px;
   overflow: hidden;
 }
-.v7_95 {
+v7_95 {
   width: 50px;
   color: rgba(109,211,255,1);
   position: absolute;
@@ -1915,7 +1915,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v7_96 {
+v7_96 {
   width: 161px;
   color: rgba(250,173,85,1);
   position: absolute;
@@ -1927,7 +1927,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v7_97 {
+v7_97 {
   width: 186px;
   color: rgba(250,173,85,1);
   position: absolute;
@@ -1939,7 +1939,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v7_98 {
+v7_98 {
   width: 262px;
   height: 49px;
   background: rgba(109,211,255,0.25);
@@ -1949,7 +1949,7 @@ v4_58 {
   left: 98px;
   overflow: hidden;
 }
-.v7_99 {
+v7_99 {
   width: 186px;
   color: rgba(250,173,85,1);
   position: absolute;
@@ -1961,7 +1961,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v7_100 {
+v7_100 {
   width: 186px;
   color: rgba(250,173,85,1);
   position: absolute;
@@ -1973,7 +1973,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v7_101 {
+v7_101 {
   width: 23px;
   height: 23px;
   background: rgba(109,211,255,1);
@@ -1982,7 +1982,7 @@ v4_58 {
   top: 8px;
   left: 325px;
 }
-.v18_0 {
+v18_0 {
   width: 360px;
   height: 640px;
   background: rgba(109,211,255,1);
@@ -1992,7 +1992,7 @@ v4_58 {
   left: 0px;
   overflow: hidden;
 }
-.v18_1 {
+v18_1 {
   width: 50px;
   height: 50px;
   background: url("cookswapapp/public/images/v18_1.png");
@@ -2005,7 +2005,7 @@ v4_58 {
   left: 3px;
   overflow: hidden;
 }
-.v18_2 {
+v18_2 {
   width: 32px;
   height: 32px;
   background: rgba(255,255,255,1);
@@ -2015,7 +2015,7 @@ v4_58 {
   left: 316px;
   overflow: hidden;
 }
-.v18_3 {
+v18_3 {
   width: 32px;
   height: 32px;
   background: url("cookswapapp/public/images/v18_3.png");
@@ -2024,7 +2024,7 @@ v4_58 {
   top: 0px;
   left: 0px;
 }
-.v18_4 {
+v18_4 {
   width: 24px;
   height: 16px;
   background: rgba(255,255,255,1);
@@ -2033,7 +2033,7 @@ v4_58 {
   top: 8px;
   left: 4px;
 }
-.v18_5 {
+v18_5 {
   width: 360px;
   height: 576px;
   background: url("cookswapapp/public/images/v18_5.png");
@@ -2046,7 +2046,7 @@ v4_58 {
   left: 0px;
   overflow: hidden;
 }
-.v18_6 {
+v18_6 {
   width: 165px;
   color: rgba(255,255,255,1);
   position: absolute;
@@ -2058,7 +2058,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v18_9 {
+v18_9 {
   width: 328px;
   height: 116px;
   background: rgba(255,255,255,1);
@@ -2072,7 +2072,7 @@ v4_58 {
   border-bottom-right-radius: 6px;
   overflow: hidden;
 }
-.v22_2 {
+v22_2 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -2084,7 +2084,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_13 {
+v22_13 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -2096,7 +2096,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_12 {
+v22_12 {
   width: 61px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -2108,7 +2108,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v20_0 {
+v20_0 {
   width: 328px;
   height: 116px;
   background: rgba(255,255,255,1);
@@ -2122,7 +2122,7 @@ v4_58 {
   border-bottom-right-radius: 6px;
   overflow: hidden;
 }
-.v20_1 {
+v20_1 {
   width: 328px;
   height: 116px;
   background: rgba(255,255,255,1);
@@ -2136,7 +2136,7 @@ v4_58 {
   border-bottom-right-radius: 6px;
   overflow: hidden;
 }
-.v20_2 {
+v20_2 {
   width: 328px;
   height: 116px;
   background: rgba(255,255,255,1);
@@ -2150,7 +2150,7 @@ v4_58 {
   border-bottom-right-radius: 6px;
   overflow: hidden;
 }
-.v22_3 {
+v22_3 {
   width: 61px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -2162,7 +2162,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_4 {
+v22_4 {
   width: 20px;
   height: 19px;
   background: rgba(255,255,255,1);
@@ -2172,7 +2172,7 @@ v4_58 {
   left: 208px;
   overflow: hidden;
 }
-.v22_5 {
+v22_5 {
   width: 20px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_5.png");
@@ -2185,7 +2185,7 @@ v4_58 {
   left: 0px;
   overflow: hidden;
 }
-.v22_6 {
+v22_6 {
   width: 20px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_6.png");
@@ -2194,7 +2194,7 @@ v4_58 {
   top: 0px;
   left: 0px;
 }
-.v22_7 {
+v22_7 {
   width: 16px;
   height: 15px;
   background: rgba(109,211,255,1);
@@ -2203,7 +2203,7 @@ v4_58 {
   top: 1px;
   left: 1px;
 }
-.v22_8 {
+v22_8 {
   width: 19px;
   height: 19px;
   background: rgba(255,255,255,1);
@@ -2213,7 +2213,7 @@ v4_58 {
   left: 226px;
   overflow: hidden;
 }
-.v22_9 {
+v22_9 {
   width: 19px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_9.png");
@@ -2226,7 +2226,7 @@ v4_58 {
   left: 0px;
   overflow: hidden;
 }
-.v22_10 {
+v22_10 {
   width: 19px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_10.png");
@@ -2235,7 +2235,7 @@ v4_58 {
   top: 0px;
   left: 0px;
 }
-.v22_11 {
+v22_11 {
   width: 15px;
   height: 15px;
   background: rgba(109,211,255,1);
@@ -2244,7 +2244,7 @@ v4_58 {
   top: 1px;
   left: 1px;
 }
-.v22_16 {
+v22_16 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -2256,7 +2256,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_17 {
+v22_17 {
   width: 61px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -2268,7 +2268,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_19 {
+v22_19 {
   width: 61px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -2280,7 +2280,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_20 {
+v22_20 {
   width: 20px;
   height: 19px;
   background: rgba(255,255,255,1);
@@ -2290,7 +2290,7 @@ v4_58 {
   left: 205px;
   overflow: hidden;
 }
-.v22_21 {
+v22_21 {
   width: 20px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_21.png");
@@ -2303,7 +2303,7 @@ v4_58 {
   left: 0px;
   overflow: hidden;
 }
-.v22_22 {
+v22_22 {
   width: 20px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_22.png");
@@ -2312,7 +2312,7 @@ v4_58 {
   top: 0px;
   left: 0px;
 }
-.v22_23 {
+v22_23 {
   width: 16px;
   height: 15px;
   background: rgba(109,211,255,1);
@@ -2321,7 +2321,7 @@ v4_58 {
   top: 1px;
   left: 1px;
 }
-.v22_28 {
+v22_28 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -2333,7 +2333,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_29 {
+v22_29 {
   width: 61px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -2345,7 +2345,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_31 {
+v22_31 {
   width: 61px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -2357,7 +2357,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_32 {
+v22_32 {
   width: 20px;
   height: 19px;
   background: rgba(255,255,255,1);
@@ -2367,7 +2367,7 @@ v4_58 {
   left: 205px;
   overflow: hidden;
 }
-.v22_33 {
+v22_33 {
   width: 20px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_33.png");
@@ -2380,7 +2380,7 @@ v4_58 {
   left: 0px;
   overflow: hidden;
 }
-.v22_34 {
+v22_34 {
   width: 20px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_34.png");
@@ -2389,7 +2389,7 @@ v4_58 {
   top: 0px;
   left: 0px;
 }
-.v22_35 {
+v22_35 {
   width: 16px;
   height: 15px;
   background: rgba(109,211,255,1);
@@ -2398,7 +2398,7 @@ v4_58 {
   top: 1px;
   left: 1px;
 }
-.v22_36 {
+v22_36 {
   width: 19px;
   height: 19px;
   background: rgba(255,255,255,1);
@@ -2408,7 +2408,7 @@ v4_58 {
   left: 223px;
   overflow: hidden;
 }
-.v22_37 {
+v22_37 {
   width: 19px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_37.png");
@@ -2421,7 +2421,7 @@ v4_58 {
   left: 0px;
   overflow: hidden;
 }
-.v22_38 {
+v22_38 {
   width: 19px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_38.png");
@@ -2430,7 +2430,7 @@ v4_58 {
   top: 0px;
   left: 0px;
 }
-.v22_39 {
+v22_39 {
   width: 15px;
   height: 15px;
   background: rgba(109,211,255,1);
@@ -2439,7 +2439,7 @@ v4_58 {
   top: 1px;
   left: 1px;
 }
-.v22_59 {
+v22_59 {
   width: 19px;
   height: 19px;
   background: rgba(255,255,255,1);
@@ -2449,7 +2449,7 @@ v4_58 {
   left: 240px;
   overflow: hidden;
 }
-.v22_60 {
+v22_60 {
   width: 19px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_60.png");
@@ -2462,7 +2462,7 @@ v4_58 {
   left: 0px;
   overflow: hidden;
 }
-.v22_61 {
+v22_61 {
   width: 19px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_61.png");
@@ -2471,7 +2471,7 @@ v4_58 {
   top: 0px;
   left: 0px;
 }
-.v22_62 {
+v22_62 {
   width: 15px;
   height: 15px;
   background: rgba(109,211,255,1);
@@ -2480,7 +2480,7 @@ v4_58 {
   top: 1px;
   left: 1px;
 }
-.v22_40 {
+v22_40 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -2492,7 +2492,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_41 {
+v22_41 {
   width: 61px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -2504,7 +2504,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_43 {
+v22_43 {
   width: 61px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -2516,7 +2516,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_44 {
+v22_44 {
   width: 20px;
   height: 19px;
   background: rgba(255,255,255,1);
@@ -2526,7 +2526,7 @@ v4_58 {
   left: 205px;
   overflow: hidden;
 }
-.v22_45 {
+v22_45 {
   width: 20px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_45.png");
@@ -2539,7 +2539,7 @@ v4_58 {
   left: 0px;
   overflow: hidden;
 }
-.v22_46 {
+v22_46 {
   width: 20px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_46.png");
@@ -2548,7 +2548,7 @@ v4_58 {
   top: 0px;
   left: 0px;
 }
-.v22_47 {
+v22_47 {
   width: 16px;
   height: 15px;
   background: rgba(109,211,255,1);
@@ -2557,7 +2557,7 @@ v4_58 {
   top: 1px;
   left: 1px;
 }
-.v22_14 {
+v22_14 {
   width: 237px;
   height: 15px;
   background: rgba(250,173,85,0.20000000298023224);
@@ -2566,7 +2566,7 @@ v4_58 {
   top: 90px;
   left: 111px;
 }
-.v22_48 {
+v22_48 {
   width: 19px;
   height: 19px;
   background: rgba(255,255,255,1);
@@ -2576,7 +2576,7 @@ v4_58 {
   left: 223px;
   overflow: hidden;
 }
-.v22_49 {
+v22_49 {
   width: 19px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_49.png");
@@ -2589,7 +2589,7 @@ v4_58 {
   left: 0px;
   overflow: hidden;
 }
-.v22_50 {
+v22_50 {
   width: 19px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_50.png");
@@ -2598,7 +2598,7 @@ v4_58 {
   top: 0px;
   left: 0px;
 }
-.v22_51 {
+v22_51 {
   width: 15px;
   height: 15px;
   background: rgba(109,211,255,1);
@@ -2607,7 +2607,7 @@ v4_58 {
   top: 1px;
   left: 1px;
 }
-.v22_52 {
+v22_52 {
   width: 237px;
   height: 15px;
   background: rgba(250,173,85,0.20000000298023224);
@@ -2616,7 +2616,7 @@ v4_58 {
   top: 224px;
   left: 107px;
 }
-.v22_53 {
+v22_53 {
   width: 237px;
   height: 15px;
   background: rgba(250,173,85,0.20000000298023224);
@@ -2625,7 +2625,7 @@ v4_58 {
   top: 359px;
   left: 107px;
 }
-.v22_54 {
+v22_54 {
   width: 237px;
   height: 15px;
   background: rgba(250,173,85,0.20000000298023224);
@@ -2634,7 +2634,7 @@ v4_58 {
   top: 492px;
   left: 107px;
 }
-.v22_55 {
+v22_55 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -2646,7 +2646,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_56 {
+v22_56 {
   width: 169px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -2658,7 +2658,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_57 {
+v22_57 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -2670,7 +2670,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_42 {
+v22_42 {
   width: 99px;
   height: 99px;
   background: url("cookswapapp/public/images/v22_42.png");
@@ -2687,7 +2687,7 @@ v4_58 {
   border-bottom-right-radius: 6px;
   overflow: hidden;
 }
-.v22_30 {
+v22_30 {
   width: 99px;
   height: 99px;
   background: url("cookswapapp/public/images/v22_30.png");
@@ -2704,7 +2704,7 @@ v4_58 {
   border-bottom-right-radius: 6px;
   overflow: hidden;
 }
-.v22_18 {
+v22_18 {
   width: 99px;
   height: 99px;
   background: url("cookswapapp/public/images/v22_18.png");
@@ -2721,7 +2721,7 @@ v4_58 {
   border-bottom-right-radius: 6px;
   overflow: hidden;
 }
-.v18_10 {
+v18_10 {
   width: 99px;
   height: 99px;
   background: url("cookswapapp/public/images/v18_10.png");
@@ -2738,7 +2738,7 @@ v4_58 {
   border-bottom-right-radius: 6px;
   overflow: hidden;
 }
-.v22_63 {
+v22_63 {
   width: 360px;
   height: 640px;
   background: rgba(109,211,255,1);
@@ -2748,7 +2748,7 @@ v4_58 {
   left: 0px;
   overflow: hidden;
 }
-.v22_64 {
+v22_64 {
   width: 50px;
   height: 50px;
   background: url("cookswapapp/public/images/v22_64.png");
@@ -2761,7 +2761,7 @@ v4_58 {
   left: 3px;
   overflow: hidden;
 }
-.v22_65 {
+v22_65 {
   width: 32px;
   height: 32px;
   background: rgba(255,255,255,1);
@@ -2771,7 +2771,7 @@ v4_58 {
   left: 316px;
   overflow: hidden;
 }
-.v22_66 {
+v22_66 {
   width: 32px;
   height: 32px;
   background: url("cookswapapp/public/images/v22_66.png");
@@ -2780,7 +2780,7 @@ v4_58 {
   top: 0px;
   left: 0px;
 }
-.v22_67 {
+v22_67 {
   width: 24px;
   height: 16px;
   background: rgba(255,255,255,1);
@@ -2789,7 +2789,7 @@ v4_58 {
   top: 8px;
   left: 4px;
 }
-.v22_68 {
+v22_68 {
   width: 360px;
   height: 576px;
   background: url("cookswapapp/public/images/v22_68.png");
@@ -2802,7 +2802,7 @@ v4_58 {
   left: 0px;
   overflow: hidden;
 }
-.v22_69 {
+v22_69 {
   width: 165px;
   color: rgba(255,255,255,1);
   position: absolute;
@@ -2814,7 +2814,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_70 {
+v22_70 {
   width: 328px;
   height: 116px;
   background: rgba(255,255,255,1);
@@ -2828,7 +2828,7 @@ v4_58 {
   border-bottom-right-radius: 6px;
   overflow: hidden;
 }
-.v22_71 {
+v22_71 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -2840,7 +2840,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_72 {
+v22_72 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -2852,7 +2852,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_73 {
+v22_73 {
   width: 61px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -2864,7 +2864,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_74 {
+v22_74 {
   width: 328px;
   height: 116px;
   background: rgba(255,255,255,1);
@@ -2878,7 +2878,7 @@ v4_58 {
   border-bottom-right-radius: 6px;
   overflow: hidden;
 }
-.v22_75 {
+v22_75 {
   width: 328px;
   height: 116px;
   background: rgba(255,255,255,1);
@@ -2892,7 +2892,7 @@ v4_58 {
   border-bottom-right-radius: 6px;
   overflow: hidden;
 }
-.v22_76 {
+v22_76 {
   width: 328px;
   height: 116px;
   background: rgba(255,255,255,1);
@@ -2906,7 +2906,7 @@ v4_58 {
   border-bottom-right-radius: 6px;
   overflow: hidden;
 }
-.v22_77 {
+v22_77 {
   width: 61px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -2918,7 +2918,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_78 {
+v22_78 {
   width: 20px;
   height: 19px;
   background: rgba(255,255,255,1);
@@ -2928,7 +2928,7 @@ v4_58 {
   left: 208px;
   overflow: hidden;
 }
-.v22_79 {
+v22_79 {
   width: 20px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_79.png");
@@ -2941,7 +2941,7 @@ v4_58 {
   left: 0px;
   overflow: hidden;
 }
-.v22_80 {
+v22_80 {
   width: 20px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_80.png");
@@ -2950,7 +2950,7 @@ v4_58 {
   top: 0px;
   left: 0px;
 }
-.v22_81 {
+v22_81 {
   width: 16px;
   height: 15px;
   background: rgba(109,211,255,1);
@@ -2959,7 +2959,7 @@ v4_58 {
   top: 1px;
   left: 1px;
 }
-.v22_82 {
+v22_82 {
   width: 19px;
   height: 19px;
   background: rgba(255,255,255,1);
@@ -2969,7 +2969,7 @@ v4_58 {
   left: 226px;
   overflow: hidden;
 }
-.v22_83 {
+v22_83 {
   width: 19px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_83.png");
@@ -2982,7 +2982,7 @@ v4_58 {
   left: 0px;
   overflow: hidden;
 }
-.v22_84 {
+v22_84 {
   width: 19px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_84.png");
@@ -2991,7 +2991,7 @@ v4_58 {
   top: 0px;
   left: 0px;
 }
-.v22_85 {
+v22_85 {
   width: 15px;
   height: 15px;
   background: rgba(109,211,255,1);
@@ -3000,7 +3000,7 @@ v4_58 {
   top: 1px;
   left: 1px;
 }
-.v22_86 {
+v22_86 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -3012,7 +3012,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_87 {
+v22_87 {
   width: 61px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -3024,7 +3024,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_88 {
+v22_88 {
   width: 61px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -3036,7 +3036,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_89 {
+v22_89 {
   width: 20px;
   height: 19px;
   background: rgba(255,255,255,1);
@@ -3046,7 +3046,7 @@ v4_58 {
   left: 205px;
   overflow: hidden;
 }
-.v22_90 {
+v22_90 {
   width: 20px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_90.png");
@@ -3059,7 +3059,7 @@ v4_58 {
   left: 0px;
   overflow: hidden;
 }
-.v22_91 {
+v22_91 {
   width: 20px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_91.png");
@@ -3068,7 +3068,7 @@ v4_58 {
   top: 0px;
   left: 0px;
 }
-.v22_92 {
+v22_92 {
   width: 16px;
   height: 15px;
   background: rgba(109,211,255,1);
@@ -3077,7 +3077,7 @@ v4_58 {
   top: 1px;
   left: 1px;
 }
-.v22_93 {
+v22_93 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -3089,7 +3089,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_94 {
+v22_94 {
   width: 61px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -3101,7 +3101,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_95 {
+v22_95 {
   width: 61px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -3113,7 +3113,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_96 {
+v22_96 {
   width: 20px;
   height: 19px;
   background: rgba(255,255,255,1);
@@ -3123,7 +3123,7 @@ v4_58 {
   left: 205px;
   overflow: hidden;
 }
-.v22_97 {
+v22_97 {
   width: 20px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_97.png");
@@ -3136,7 +3136,7 @@ v4_58 {
   left: 0px;
   overflow: hidden;
 }
-.v22_98 {
+v22_98 {
   width: 20px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_98.png");
@@ -3145,7 +3145,7 @@ v4_58 {
   top: 0px;
   left: 0px;
 }
-.v22_99 {
+v22_99 {
   width: 16px;
   height: 15px;
   background: rgba(109,211,255,1);
@@ -3154,7 +3154,7 @@ v4_58 {
   top: 1px;
   left: 1px;
 }
-.v22_100 {
+v22_100 {
   width: 19px;
   height: 19px;
   background: rgba(255,255,255,1);
@@ -3164,7 +3164,7 @@ v4_58 {
   left: 223px;
   overflow: hidden;
 }
-.v22_101 {
+v22_101 {
   width: 19px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_101.png");
@@ -3177,7 +3177,7 @@ v4_58 {
   left: 0px;
   overflow: hidden;
 }
-.v22_102 {
+v22_102 {
   width: 19px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_102.png");
@@ -3186,7 +3186,7 @@ v4_58 {
   top: 0px;
   left: 0px;
 }
-.v22_103 {
+v22_103 {
   width: 15px;
   height: 15px;
   background: rgba(109,211,255,1);
@@ -3195,7 +3195,7 @@ v4_58 {
   top: 1px;
   left: 1px;
 }
-.v22_104 {
+v22_104 {
   width: 19px;
   height: 19px;
   background: rgba(255,255,255,1);
@@ -3205,7 +3205,7 @@ v4_58 {
   left: 240px;
   overflow: hidden;
 }
-.v22_105 {
+v22_105 {
   width: 19px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_105.png");
@@ -3218,7 +3218,7 @@ v4_58 {
   left: 0px;
   overflow: hidden;
 }
-.v22_106 {
+v22_106 {
   width: 19px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_106.png");
@@ -3227,7 +3227,7 @@ v4_58 {
   top: 0px;
   left: 0px;
 }
-.v22_107 {
+v22_107 {
   width: 15px;
   height: 15px;
   background: rgba(109,211,255,1);
@@ -3236,7 +3236,7 @@ v4_58 {
   top: 1px;
   left: 1px;
 }
-.v22_108 {
+v22_108 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -3248,7 +3248,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_109 {
+v22_109 {
   width: 61px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -3260,7 +3260,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_110 {
+v22_110 {
   width: 61px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -3272,7 +3272,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_111 {
+v22_111 {
   width: 20px;
   height: 19px;
   background: rgba(255,255,255,1);
@@ -3282,7 +3282,7 @@ v4_58 {
   left: 205px;
   overflow: hidden;
 }
-.v22_112 {
+v22_112 {
   width: 20px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_112.png");
@@ -3295,7 +3295,7 @@ v4_58 {
   left: 0px;
   overflow: hidden;
 }
-.v22_113 {
+v22_113 {
   width: 20px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_113.png");
@@ -3304,7 +3304,7 @@ v4_58 {
   top: 0px;
   left: 0px;
 }
-.v22_114 {
+v22_114 {
   width: 16px;
   height: 15px;
   background: rgba(109,211,255,1);
@@ -3313,7 +3313,7 @@ v4_58 {
   top: 1px;
   left: 1px;
 }
-.v22_115 {
+v22_115 {
   width: 237px;
   height: 15px;
   background: rgba(250,173,85,0.20000000298023224);
@@ -3322,7 +3322,7 @@ v4_58 {
   top: 90px;
   left: 111px;
 }
-.v22_116 {
+v22_116 {
   width: 19px;
   height: 19px;
   background: rgba(255,255,255,1);
@@ -3332,7 +3332,7 @@ v4_58 {
   left: 223px;
   overflow: hidden;
 }
-.v22_117 {
+v22_117 {
   width: 19px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_117.png");
@@ -3345,7 +3345,7 @@ v4_58 {
   left: 0px;
   overflow: hidden;
 }
-.v22_118 {
+v22_118 {
   width: 19px;
   height: 19px;
   background: url("cookswapapp/public/images/v22_118.png");
@@ -3354,7 +3354,7 @@ v4_58 {
   top: 0px;
   left: 0px;
 }
-.v22_119 {
+v22_119 {
   width: 15px;
   height: 15px;
   background: rgba(109,211,255,1);
@@ -3363,7 +3363,7 @@ v4_58 {
   top: 1px;
   left: 1px;
 }
-.v22_120 {
+v22_120 {
   width: 237px;
   height: 15px;
   background: rgba(250,173,85,0.20000000298023224);
@@ -3372,7 +3372,7 @@ v4_58 {
   top: 224px;
   left: 107px;
 }
-.v22_121 {
+v22_121 {
   width: 237px;
   height: 15px;
   background: rgba(250,173,85,0.20000000298023224);
@@ -3381,7 +3381,7 @@ v4_58 {
   top: 359px;
   left: 107px;
 }
-.v22_122 {
+v22_122 {
   width: 237px;
   height: 15px;
   background: rgba(250,173,85,0.20000000298023224);
@@ -3390,7 +3390,7 @@ v4_58 {
   top: 492px;
   left: 107px;
 }
-.v22_123 {
+v22_123 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -3402,7 +3402,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_124 {
+v22_124 {
   width: 169px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -3414,7 +3414,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_125 {
+v22_125 {
   width: 119px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -3426,7 +3426,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_126 {
+v22_126 {
   width: 99px;
   height: 99px;
   background: url("cookswapapp/public/images/v22_126.png");
@@ -3443,7 +3443,7 @@ v4_58 {
   border-bottom-right-radius: 6px;
   overflow: hidden;
 }
-.v22_127 {
+v22_127 {
   width: 99px;
   height: 99px;
   background: url("cookswapapp/public/images/v22_127.png");
@@ -3460,7 +3460,7 @@ v4_58 {
   border-bottom-right-radius: 6px;
   overflow: hidden;
 }
-.v22_128 {
+v22_128 {
   width: 99px;
   height: 99px;
   background: url("cookswapapp/public/images/v22_128.png");
@@ -3477,7 +3477,7 @@ v4_58 {
   border-bottom-right-radius: 6px;
   overflow: hidden;
 }
-.v22_129 {
+v22_129 {
   width: 99px;
   height: 99px;
   background: url("cookswapapp/public/images/v22_129.png");
@@ -3494,7 +3494,7 @@ v4_58 {
   border-bottom-right-radius: 6px;
   overflow: hidden;
 }
-.v22_141 {
+v22_141 {
   width: 260px;
   height: 640px;
   background: rgba(255,255,255,1);
@@ -3504,7 +3504,7 @@ v4_58 {
   left: 100px;
   overflow: hidden;
 }
-.v22_142 {
+v22_142 {
   width: 262px;
   height: 49px;
   background: rgba(109,211,255,0.25);
@@ -3514,7 +3514,7 @@ v4_58 {
   left: 98px;
   overflow: hidden;
 }
-.v22_143 {
+v22_143 {
   width: 262px;
   height: 49px;
   background: rgba(109,211,255,0.25);
@@ -3524,7 +3524,7 @@ v4_58 {
   left: 99px;
   overflow: hidden;
 }
-.v22_144 {
+v22_144 {
   width: 262px;
   height: 49px;
   background: rgba(109,211,255,0.25);
@@ -3534,7 +3534,7 @@ v4_58 {
   left: 99px;
   overflow: hidden;
 }
-.v22_145 {
+v22_145 {
   width: 50px;
   color: rgba(109,211,255,1);
   position: absolute;
@@ -3546,7 +3546,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_146 {
+v22_146 {
   width: 161px;
   color: rgba(250,173,85,1);
   position: absolute;
@@ -3558,7 +3558,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_147 {
+v22_147 {
   width: 186px;
   color: rgba(250,173,85,1);
   position: absolute;
@@ -3570,7 +3570,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_148 {
+v22_148 {
   width: 262px;
   height: 49px;
   background: rgba(109,211,255,0.25);
@@ -3580,7 +3580,7 @@ v4_58 {
   left: 100px;
   overflow: hidden;
 }
-.v22_149 {
+v22_149 {
   width: 186px;
   color: rgba(250,173,85,1);
   position: absolute;
@@ -3592,7 +3592,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_150 {
+v22_150 {
   width: 186px;
   color: rgba(250,173,85,1);
   position: absolute;
@@ -3604,7 +3604,7 @@ v4_58 {
   opacity: 1;
   text-align: left;
 }
-.v22_151 {
+v22_151 {
   width: 23px;
   height: 23px;
   background: rgba(109,211,255,1);
