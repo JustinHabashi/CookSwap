@@ -1,0 +1,22 @@
+{
+  "name": "cookswap",
+  "version": "1.0.0",
+  "description": "<p> CookSwap is the BCS Hackathon 2021 submission from team Data Dinos. The purpose of the app is to connect local meal preppers to swap meals and add some variety to their week. </p>",
+  "main": "(cookswap.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustinHabashi/CookSwap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustinHabashi/CookSwap/issues"
+  },
+  "homepage": "https://github.com/JustinHabashi/CookSwap#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
