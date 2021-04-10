@@ -92,7 +92,7 @@ body {
 .v3_3 {
   width: 256px;
   height: 256px;
-  background: url("../images/v3_3.png");
+  background: url("cookswapapp/public/images/v3_3.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -127,7 +127,7 @@ body {
 .v4_7 {
   width: 50px;
   height: 50px;
-  background: url("../images/v4_7.png");
+  background: url("cookswapapp/public/images/v4_7.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -150,7 +150,7 @@ body {
 .v4_9 {
   width: 32px;
   height: 32px;
-  background: url("../images/v4_9.png");
+  background: url("cookswapapp/public/images/v4_9.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -168,7 +168,7 @@ body {
 .v4_20 {
   width: 360px;
   height: 498px;
-  background: url("../images/v4_20.png");
+  background: url("cookswapapp/public/images/v4_20.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -221,7 +221,7 @@ body {
 .v4_43 {
   width: 360px;
   height: 895px;
-  background: url("../images/v4_43.png");
+  background: url("cookswapapp/public/images/v4_43.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -234,7 +234,7 @@ body {
 .v4_34 {
   width: 50px;
   height: 50px;
-  background: url("../images/v4_34.png");
+  background: url("cookswapapp/public/images/v4_34.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -247,7 +247,7 @@ body {
 .v4_38 {
   width: 360px;
   height: 498px;
-  background: url("../images/v4_38.png");
+  background: url("cookswapapp/public/images/v4_38.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -419,7 +419,7 @@ body {
 .v4_53 {
   width: 50px;
   height: 50px;
-  background: url("../images/v4_53.png");
+  background: url("cookswapapp/public/images/v4_53.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -442,7 +442,7 @@ body {
 .v4_55 {
   width: 32px;
   height: 32px;
-  background: url("../images/v4_55.png");
+  background: url("cookswapapp/public/images/v4_55.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -502,7 +502,7 @@ body {
 .v4_63 {
   width: 65px;
   height: 60px;
-  background: url("../images/v4_63.png");
+  background: url("cookswapapp/public/images/v4_63.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1012,7 +1012,7 @@ body {
 .v7_24 {
   width: 50px;
   height: 50px;
-  background: url("../images/v7_24.png");
+  background: url("cookswapapp/public/images/v7_24.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1035,7 +1035,7 @@ body {
 .v7_26 {
   width: 32px;
   height: 32px;
-  background: url("../images/v7_26.png");
+  background: url("cookswapapp/public/images/v7_26.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -1095,7 +1095,7 @@ body {
 .v7_32 {
   width: 65px;
   height: 60px;
-  background: url("../images/v7_32.png");
+  background: url("cookswapapp/public/images/v7_32.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1724,7 +1724,7 @@ body {
 .v7_74 {
   width: 50px;
   height: 50px;
-  background: url("../images/v7_74.png");
+  background: url("cookswapapp/public/images/v7_74.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1747,7 +1747,7 @@ body {
 .v7_76 {
   width: 32px;
   height: 32px;
-  background: url("../images/v7_76.png");
+  background: url("cookswapapp/public/images/v7_76.png");
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -1777,7 +1777,7 @@ body {
 .v7_82 {
   width: 360px;
   height: 576px;
-  background: url("../images/v7_82.png");
+  background: url("cookswapapp/public/images/v7_82.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1800,7 +1800,7 @@ body {
 .v7_85 {
   width: 50px;
   height: 50px;
-  background: url("../images/v7_85.png");
+  background: url("cookswapapp/public/images/v7_85.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1823,7 +1823,7 @@ body {
 .v7_87 {
   width: 32px;
   height: 32px;
-  background: url("../images/v7_87.png");
+  background: url("cookswapapp/public/images/v7_87.png");
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -1853,7 +1853,7 @@ body {
 .v7_90 {
   width: 360px;
   height: 576px;
-  background: url("../images/v7_90.png");
+  background: url("cookswapapp/public/images/v7_90.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1995,7 +1995,7 @@ body {
 .v18_1 {
   width: 50px;
   height: 50px;
-  background: url("../images/v18_1.png");
+  background: url("cookswapapp/public/images/v18_1.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2018,7 +2018,7 @@ body {
 .v18_3 {
   width: 32px;
   height: 32px;
-  background: url("../images/v18_3.png");
+  background: url("cookswapapp/public/images/v18_3.png");
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -2036,7 +2036,7 @@ body {
 .v18_5 {
   width: 360px;
   height: 576px;
-  background: url("../images/v18_5.png");
+  background: url("cookswapapp/public/images/v18_5.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2175,7 +2175,7 @@ body {
 .v22_5 {
   width: 20px;
   height: 19px;
-  background: url("../images/v22_5.png");
+  background: url("cookswapapp/public/images/v22_5.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2188,7 +2188,7 @@ body {
 .v22_6 {
   width: 20px;
   height: 19px;
-  background: url("../images/v22_6.png");
+  background: url("cookswapapp/public/images/v22_6.png");
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -2216,7 +2216,7 @@ body {
 .v22_9 {
   width: 19px;
   height: 19px;
-  background: url("../images/v22_9.png");
+  background: url("cookswapapp/public/images/v22_9.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2229,7 +2229,7 @@ body {
 .v22_10 {
   width: 19px;
   height: 19px;
-  background: url("../images/v22_10.png");
+  background: url("cookswapapp/public/images/v22_10.png");
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -2293,7 +2293,7 @@ body {
 .v22_21 {
   width: 20px;
   height: 19px;
-  background: url("../images/v22_21.png");
+  background: url("cookswapapp/public/images/v22_21.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2306,7 +2306,7 @@ body {
 .v22_22 {
   width: 20px;
   height: 19px;
-  background: url("../images/v22_22.png");
+  background: url("cookswapapp/public/images/v22_22.png");
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -2370,7 +2370,7 @@ body {
 .v22_33 {
   width: 20px;
   height: 19px;
-  background: url("../images/v22_33.png");
+  background: url("cookswapapp/public/images/v22_33.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2383,7 +2383,7 @@ body {
 .v22_34 {
   width: 20px;
   height: 19px;
-  background: url("../images/v22_34.png");
+  background: url("cookswapapp/public/images/v22_34.png");
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -2411,7 +2411,7 @@ body {
 .v22_37 {
   width: 19px;
   height: 19px;
-  background: url("../images/v22_37.png");
+  background: url("cookswapapp/public/images/v22_37.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2424,7 +2424,7 @@ body {
 .v22_38 {
   width: 19px;
   height: 19px;
-  background: url("../images/v22_38.png");
+  background: url("cookswapapp/public/images/v22_38.png");
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -2452,7 +2452,7 @@ body {
 .v22_60 {
   width: 19px;
   height: 19px;
-  background: url("../images/v22_60.png");
+  background: url("cookswapapp/public/images/v22_60.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2465,7 +2465,7 @@ body {
 .v22_61 {
   width: 19px;
   height: 19px;
-  background: url("../images/v22_61.png");
+  background: url("cookswapapp/public/images/v22_61.png");
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -2529,7 +2529,7 @@ body {
 .v22_45 {
   width: 20px;
   height: 19px;
-  background: url("../images/v22_45.png");
+  background: url("cookswapapp/public/images/v22_45.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2542,7 +2542,7 @@ body {
 .v22_46 {
   width: 20px;
   height: 19px;
-  background: url("../images/v22_46.png");
+  background: url("cookswapapp/public/images/v22_46.png");
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -2579,7 +2579,7 @@ body {
 .v22_49 {
   width: 19px;
   height: 19px;
-  background: url("../images/v22_49.png");
+  background: url("cookswapapp/public/images/v22_49.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2592,7 +2592,7 @@ body {
 .v22_50 {
   width: 19px;
   height: 19px;
-  background: url("../images/v22_50.png");
+  background: url("cookswapapp/public/images/v22_50.png");
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -2673,7 +2673,7 @@ body {
 .v22_42 {
   width: 99px;
   height: 99px;
-  background: url("../images/v22_42.png");
+  background: url("cookswapapp/public/images/v22_42.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2690,7 +2690,7 @@ body {
 .v22_30 {
   width: 99px;
   height: 99px;
-  background: url("../images/v22_30.png");
+  background: url("cookswapapp/public/images/v22_30.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2707,7 +2707,7 @@ body {
 .v22_18 {
   width: 99px;
   height: 99px;
-  background: url("../images/v22_18.png");
+  background: url("cookswapapp/public/images/v22_18.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2724,7 +2724,7 @@ body {
 .v18_10 {
   width: 99px;
   height: 99px;
-  background: url("../images/v18_10.png");
+  background: url("cookswapapp/public/images/v18_10.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2751,7 +2751,7 @@ body {
 .v22_64 {
   width: 50px;
   height: 50px;
-  background: url("../images/v22_64.png");
+  background: url("cookswapapp/public/images/v22_64.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2774,7 +2774,7 @@ body {
 .v22_66 {
   width: 32px;
   height: 32px;
-  background: url("../images/v22_66.png");
+  background: url("cookswapapp/public/images/v22_66.png");
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -2792,7 +2792,7 @@ body {
 .v22_68 {
   width: 360px;
   height: 576px;
-  background: url("../images/v22_68.png");
+  background: url("cookswapapp/public/images/v22_68.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2931,7 +2931,7 @@ body {
 .v22_79 {
   width: 20px;
   height: 19px;
-  background: url("../images/v22_79.png");
+  background: url("cookswapapp/public/images/v22_79.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2944,7 +2944,7 @@ body {
 .v22_80 {
   width: 20px;
   height: 19px;
-  background: url("../images/v22_80.png");
+  background: url("cookswapapp/public/images/v22_80.png");
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -2972,7 +2972,7 @@ body {
 .v22_83 {
   width: 19px;
   height: 19px;
-  background: url("../images/v22_83.png");
+  background: url("cookswapapp/public/images/v22_83.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2985,7 +2985,7 @@ body {
 .v22_84 {
   width: 19px;
   height: 19px;
-  background: url("../images/v22_84.png");
+  background: url("cookswapapp/public/images/v22_84.png");
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -3049,7 +3049,7 @@ body {
 .v22_90 {
   width: 20px;
   height: 19px;
-  background: url("../images/v22_90.png");
+  background: url("cookswapapp/public/images/v22_90.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3062,7 +3062,7 @@ body {
 .v22_91 {
   width: 20px;
   height: 19px;
-  background: url("../images/v22_91.png");
+  background: url("cookswapapp/public/images/v22_91.png");
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -3126,7 +3126,7 @@ body {
 .v22_97 {
   width: 20px;
   height: 19px;
-  background: url("../images/v22_97.png");
+  background: url("cookswapapp/public/images/v22_97.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3139,7 +3139,7 @@ body {
 .v22_98 {
   width: 20px;
   height: 19px;
-  background: url("../images/v22_98.png");
+  background: url("cookswapapp/public/images/v22_98.png");
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -3167,7 +3167,7 @@ body {
 .v22_101 {
   width: 19px;
   height: 19px;
-  background: url("../images/v22_101.png");
+  background: url("cookswapapp/public/images/v22_101.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3180,7 +3180,7 @@ body {
 .v22_102 {
   width: 19px;
   height: 19px;
-  background: url("../images/v22_102.png");
+  background: url("cookswapapp/public/images/v22_102.png");
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -3208,7 +3208,7 @@ body {
 .v22_105 {
   width: 19px;
   height: 19px;
-  background: url("../images/v22_105.png");
+  background: url("cookswapapp/public/images/v22_105.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3221,7 +3221,7 @@ body {
 .v22_106 {
   width: 19px;
   height: 19px;
-  background: url("../images/v22_106.png");
+  background: url("cookswapapp/public/images/v22_106.png");
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -3285,7 +3285,7 @@ body {
 .v22_112 {
   width: 20px;
   height: 19px;
-  background: url("../images/v22_112.png");
+  background: url("cookswapapp/public/images/v22_112.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3298,7 +3298,7 @@ body {
 .v22_113 {
   width: 20px;
   height: 19px;
-  background: url("../images/v22_113.png");
+  background: url("cookswapapp/public/images/v22_113.png");
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -3335,7 +3335,7 @@ body {
 .v22_117 {
   width: 19px;
   height: 19px;
-  background: url("../images/v22_117.png");
+  background: url("cookswapapp/public/images/v22_117.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3348,7 +3348,7 @@ body {
 .v22_118 {
   width: 19px;
   height: 19px;
-  background: url("../images/v22_118.png");
+  background: url("cookswapapp/public/images/v22_118.png");
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -3429,7 +3429,7 @@ body {
 .v22_126 {
   width: 99px;
   height: 99px;
-  background: url("../images/v22_126.png");
+  background: url("cookswapapp/public/images/v22_126.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3446,7 +3446,7 @@ body {
 .v22_127 {
   width: 99px;
   height: 99px;
-  background: url("../images/v22_127.png");
+  background: url("cookswapapp/public/images/v22_127.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3463,7 +3463,7 @@ body {
 .v22_128 {
   width: 99px;
   height: 99px;
-  background: url("../images/v22_128.png");
+  background: url("cookswapapp/public/images/v22_128.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3480,7 +3480,7 @@ body {
 .v22_129 {
   width: 99px;
   height: 99px;
-  background: url("../images/v22_129.png");
+  background: url("cookswapapp/public/images/v22_129.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
