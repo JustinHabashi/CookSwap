@@ -1,10 +1,14 @@
-import BurittoBowl from 'cookswapapp/src/BurittoBowl.png'
+import banana from '../buritto.jpeg'
 
 export const MealIdeas = (props) => (
     <div>
-        <img src={BurittoBowl} className="App-logo" alt="logo" />
         <header className="App-pages">
-        Meal Ideas
+        <p>Meal Ideas</p>
+        <div>
+        <img src={banana} className="images" alt="logo" />
+        </div>
         </header>
+        
+        
     </div>
 )
