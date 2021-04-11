@@ -1,5 +1,5 @@
 export const MyProfile = (props) => (
-    <div className="Form-format">
+    <div className="App-pages">
         Welcome to CookSwap
 
         <form>
