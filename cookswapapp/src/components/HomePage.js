@@ -1,6 +1,5 @@
 import cookswap from '../HackSymbol111.png'
 import { Link } from "react-router-dom";
-import "./Button.js"
 
 export const HomePage = (props) => (
     <header className="App-header">
