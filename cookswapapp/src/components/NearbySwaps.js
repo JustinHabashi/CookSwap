@@ -1,7 +1,9 @@
 export const NearbySwaps = (props) => {
     return(
         <div>
-            NearbySwaps
+            <header className="App-pages">
+            Near by Swaps
+        </header>
         </div>
     )
 }
