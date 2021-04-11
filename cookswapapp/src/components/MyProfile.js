@@ -1,25 +1,34 @@
 export const MyProfile = (props) => (
-    <div>
-        <p>
-            Welcome to CookSwap
-        </p>
+    <div className="App-pages">
+        Welcome to CookSwap
+
         <form>
-                <label>
-                    First Name:
+            <label>
+                First Name:
                     <input type="text" name="first-name" />
-                </label>
-                <br />
-                <label>
-                    Last Name:
+            </label>
+            <br />
+            <label>
+                Last Name:
                     <input type="text" name="last-name" />
-                </label>
-                <br />
-                <label>
-                    Address:
+            </label>
+            <br />
+            <label>
+                Address:
                     <input type="text" name="address" />
-                </label>
-                <br />
-            <input type="submit" value="Submit" />
+            </label>
+            <br />
         </form>
+
+        Dietary restrictions
+        <select>
+            <option value="vegan">Vegan</option>
+            <option value="vegetarian">Vegetarian</option>
+            <option value="halal">Halal</option>
+            <option value="kosher">Kosher</option>
+        </select>
+
+        <input type="submit" value="Submit" />
     </div>
+
 )

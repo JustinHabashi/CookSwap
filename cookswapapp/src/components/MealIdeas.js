@@ -3,11 +3,11 @@ import banana from '../buritto.jpeg'
 export const MealIdeas = (props) => (
     <div>
         <header className="App-pages">
-        <p><b>Meal Ideas</b></p>
+        <p>Meal Ideas</p>
         <div>
         <img src={banana} className="images" alt="logo" />
-        <p><b>Buritto Bowl </b> </p>
         </div>
+<<<<<<< HEAD
         <body className="App-text-center">
         <p><b>INGREDIENTS:</b>
         <p>1 cup uncooked rice</p>
@@ -34,8 +34,9 @@ export const MealIdeas = (props) => (
     <p> . </p>
         </p>
         </body>
+=======
+>>>>>>> 14ac5d111a7bbd0e9a0d1374b2bc8c3da68630fb
         </header>
-        
         
         
     </div>
