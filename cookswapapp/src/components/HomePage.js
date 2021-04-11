@@ -1,4 +1,4 @@
-import cookswap from '../cookswap.jpeg'
+import cookswap from '../HackSymbol111.png'
 import { Link } from "react-router-dom";
 
 export const HomePage = (props) => (
