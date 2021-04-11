@@ -6,7 +6,7 @@ export const HomePage = (props) => (
     <header className="App-header">
         <img src={cookswap} className="App-logo" alt="logo" />
         <p>
-        Welcome to CookSwap
+        <b> Welcome to CookSwap </b>
         </p>
         <Link className="App-link" to="/MyProfile">My Profile</Link>
         <Link className="App-link" to="/NearbySwaps">Nearby Swaps</Link>
