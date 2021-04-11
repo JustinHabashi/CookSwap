@@ -1,6 +1,6 @@
 export const MyProfile = (props) => (
     <div className="App-pages">
-        Welcome to CookSwap
+        <b> Welcome to CookSwap</b>
         <br /><br />
         <form>
             <label>
