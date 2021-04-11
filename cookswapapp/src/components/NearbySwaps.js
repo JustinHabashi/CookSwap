@@ -1,7 +1,7 @@
 export const NearbySwaps = (props) => {
     return(
         <div>
-            NearbySwaps
+            Near By Swaps
         </div>
     )
 }
