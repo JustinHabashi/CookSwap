@@ -8,7 +8,7 @@ export const MealIdeas = (props) => (
         <img src={banana} className="images" alt="logo" />
         <p><b>Buritto Bowl </b> </p>
         </div>
-        <body className="App-text">
+        <body className="App-text-center">
         <p><b>INGREDIENTS:</b>
         <p>1 cup uncooked rice</p>
         <p>1 cup salsa, homemade or store-bought</p>
@@ -23,11 +23,12 @@ export const MealIdeas = (props) => (
         <p>1 tablespoon chipotle paste</p>
         <p>1 clove garlic, pressed</p>
         <p>Juice of 1 lime</p>
+        <body className="App-text-left"> 
         <p>1/4 teaspoon salt, or more, to taste</p>
         <p><b>DIRECTIONS:</b> To make the chipotle cream sauce, whisk together sour cream, chipotle paste, garlic, lime juice and salt; set aside.
         In a large saucepan of 1 1/2 cups water, cook rice according to package instructions; let cool and stir in salsa; set aside.
         To assemble the bowls, divide rice mixture into serving bowls; top with lettuce, corn, black beans, tomatoes, avocado and cilantro.
-        Serve immediately, drizzled with chipotle cream sauce. </p>
+        Serve immediately, drizzled with chipotle cream sauce. </p></body>
     <p> .  </p>
     <p> .</p>
     <p> . </p>
