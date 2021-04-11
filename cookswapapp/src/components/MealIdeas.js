@@ -7,8 +7,9 @@ export const MealIdeas = (props) => (
         <div>
         <img src={banana} className="images" alt="logo" />
         </div>
+        
         <body className="App-text">
-        <p><b>INGREDIENTS:</b>
+        <p><b>INGREDIENTS:</b></p>
         <p>1 cup uncooked rice</p>
         <p>1 cup salsa, homemade or store-bought</p>
         <p>3 cups chopped Romaine lettuce</p>
@@ -30,7 +31,6 @@ export const MealIdeas = (props) => (
     <p> .  </p>
     <p> .</p>
     <p> . </p>
-        </p>
         </body>
         </header>
         
