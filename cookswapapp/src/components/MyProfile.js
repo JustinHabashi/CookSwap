@@ -19,13 +19,13 @@ export const MyProfile = (props) => (
             </label>
             <br />
             <label>
-                Postal Code:
-                    <input type="text" name="postal-code" />
+                City:
+                    <input type="text" name="city" />
             </label>
             <br />
             <label>
-                City:
-                    <input type="text" name="city" />
+                Postal Code:
+                    <input type="text" name="postal-code" />
             </label>
             <br />
             <label>
