@@ -45,15 +45,8 @@
   color: #61dafb;
 }
 
-.App-text-center {
+.App-text {
   align-items: center;
-  justify-content: start;
-  font-size: calc(5px + 1.5vmin);
-  color: white;
-}
-
-.App-text-left {
-  align-items: flex-start;
   justify-content: start;
   font-size: calc(5px + 1.5vmin);
   color: white;
