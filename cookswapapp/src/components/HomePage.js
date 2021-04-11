@@ -7,7 +7,7 @@ export const HomePage = (props) => (
         <p>
         Welcome to CookSwap
         </p>
-        <Link className="App-link" to="/MyProfile">My Profile</Link>
+        <Button className="App-link" to="/MyProfile">My Profile</Button>
         <Link className="App-link" to="/NearbySwaps">Nearby Swaps</Link>
         <Link className="App-link" to="/StartASwap">Start A Swap</Link>
         <Link className="App-link" to="/MealIdeas">Meal Ideas</Link>
