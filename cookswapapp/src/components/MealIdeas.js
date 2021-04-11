@@ -24,7 +24,8 @@ export const MealIdeas = (props) => (
         <p>1 clove garlic, pressed</p>
         <p>Juice of 1 lime</p>
         <p>1/4 teaspoon salt, or more, to taste</p>
-        <p><b>DIRECTIONS:</b> To make the chipotle cream sauce, whisk together sour cream, chipotle paste, garlic, lime juice and salt; set aside.
+        <p><b> 
+        DIRECTIONS:</b> To make the chipotle cream sauce, whisk together sour cream, chipotle paste, garlic, lime juice and salt; set aside.
         In a large saucepan of 1 1/2 cups water, cook rice according to package instructions; let cool and stir in salsa; set aside.
         To assemble the bowls, divide rice mixture into serving bowls; top with lettuce, corn, black beans, tomatoes, avocado and cilantro.
         Serve immediately, drizzled with chipotle cream sauce. </p>
