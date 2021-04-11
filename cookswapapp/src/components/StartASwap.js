@@ -1,7 +1,31 @@
 export const StartASwap = (props) => (
-    <div>
-        <header className="App-pages">
-        <b>Start a Swap</b>
-        </header>
-    </div>
+        <header className="App-header">
+        <p>Start a swap</p>
+        <body className="App-pages">
+        <form>
+            <label >
+                Number of meals to swap:
+                    <input type="text" name="number-meals" />
+            </label>
+            <br />
+            <label>
+                Start date:
+                    <input type="text" name="last-name" />
+            </label>
+            <br />
+            <label>
+                End date:
+                    <input type="text" name="street-address" />
+            </label>
+            <br />
+            <label>
+                Preferences:
+                    <input type="text" name="street-address" />
+            </label>
+            <br />
+        <input type="submit" value="Enter" />
+        </form>
+        </body>
+    </header>
+
 )
