@@ -14,6 +14,7 @@
 }
 
 .images {
+  width: 480px;
   align-items: center;
   justify-content: start;
   height: auto;
@@ -42,6 +43,13 @@
 }
 .App-link {
   color: #61dafb;
+}
+
+.App-text {
+  align-items: center;
+  justify-content: start;
+  font-size: calc(5px + 1.5vmin);
+  color: white;
 }
 
 @keyframes App-logo-spin {
