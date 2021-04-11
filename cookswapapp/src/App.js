@@ -1,50 +1,25 @@
 import React from 'react';
-import cookswap from './cookswap.jpeg'
+import { HomePage } from './components/HomePage'
+import { MyProfile } from './components/MyProfile'
+import { NearbySwaps } from './components/NearbySwaps'
+import { StartASwap } from './components/StartASwap'
 import './App.css';
+
+import { BrowserRouter as Router, Route, Link, Switch } from "react-router-dom";
+import { MealIdeas } from './components/MealIdeas';
 
 function App() {
   return (
     <div className="App">
-  
-      <header className="App-header">
-        <img src={cookswap} className="App-logo" alt="logo" />
-        <p>
-          Welcome to CookSwap
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          My Profile
-        </a>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Nearby Swaps
-        </a>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Start a Swap
-        </a>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Meal Ideas
-        </a>
-                <style>{'body { background-color: red; }'}</style>
-      </header>
+      <Router>
+        <Switch>
+          <Route path="/" exact component={HomePage} />
+          <Route path="/MealIdeas" component={MealIdeas} />
+          <Route path="/MyProfile" component={MyProfile} />
+          <Route path="/NearbySwaps" component={NearbySwaps} />
+          <Route path="/StartASwap" component={StartASwap} />
+        </Switch>
+      </Router>
     </div>
   );
 }
