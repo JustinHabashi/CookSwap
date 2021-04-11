@@ -9,8 +9,8 @@ export const HomePage = (props) => (
         Welcome to CookSwap
         </p>
         <Link className="App-link" to="/MyProfile">My Profile</Link>
-        <Link className="App-link" to="/NearbySwaps">Nearby Swaps</Link>
-        <Link className="App-link" to="/StartASwap">Start A Swap</Link>
+        <Link className="App-link" to="/NearbySwaps">Near by Swaps</Link>
+        <Link className="App-link" to="/StartASwap">Start a Swap</Link>
         <Link className="App-link" to="/MealIdeas">Meal Ideas</Link>
     </header>
 )

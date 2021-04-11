@@ -1,5 +1,7 @@
 export const StartASwap = (props) => (
     <div>
-        Start A Swap
+        <header className="App-pages">
+        Start a Swap
+        </header>
     </div>
 )
