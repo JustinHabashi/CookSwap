@@ -1,6 +1,6 @@
 export const StartASwap = (props) => (
         <header className="App-header">
-        <p>Start a swap</p>
+        <p>Start a Swap</p>
         <body className="App-pages">
         <form>
             <label >
